@@ -1,10 +1,10 @@
 import React from "react";
-import "./WakuButton.css";
+import "./index.css";
 
 export function WakuButton(props) {
-  return <div>
-    <button>
-      Wakuwaku
-    </button>
-  </div>
+  return (
+    <div>
+      <button>Wakuwaku</button>
+    </div>
+  );
 }

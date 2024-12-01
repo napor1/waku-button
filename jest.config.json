@@ -3,6 +3,6 @@
   "moduleFileExtensions": ["js", "jsx", "json", "node"],
   "transform": {
     "^.+\\.css$": "jest-transform-css",
-    "^.+\\.[j]sx?$": "babel-jest"
+    "^.+\\.[jt]sx?$": "babel-jest"
   }
 }
